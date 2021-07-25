@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning java and python 
 - 💞️ I’m looking to collaborate on data science and development project
 - 📫 How to reach me
-    https://eghosamorganitsolution.com.ng/
+ Website:   https://eghosamorganitsolution.com.ng/
      Phone : +2347025001397
 Emails:                                                
 
-Morgan .okuonghae@gmail.com
+Morgan.okuonghae@gmail.com
 
 info@eghosamorganitsolution.com.ng
 
