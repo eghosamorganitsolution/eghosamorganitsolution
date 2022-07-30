@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @eghosamorganitsolution
-- 👀 I’m interested in web development, mobile development  and data science
-- 🌱 I’m currently learning java and python 
+- 👋 Hi, I’m Morgan Eghosa Okuonghae
+- 👀 I’m interested in data science,cloud,software development and Telecoms
+- 🌱 I’m currently learning cloud Technology 
 - 💞️ I’m looking to collaborate on data science and development project
 - 📫 How to reach me
  Website:   https://eghosamorganitsolution.com.ng/
@@ -8,6 +8,7 @@
 Emails:                                                
 
 Morgan.okuonghae@gmail.com
+eghosamorgan@yahoo.com
 
 info@eghosamorganitsolution.com.ng
 
