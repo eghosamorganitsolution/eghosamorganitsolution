@@ -8,7 +8,7 @@
      Phone/whatsapp : +2348034106912
   
 Emails:                                          
-Morgan.okuonghae@gmail.com
+Morgan.okuonghae@gmail.com   and 
 eghosamorgan@yahoo.com
 
 
