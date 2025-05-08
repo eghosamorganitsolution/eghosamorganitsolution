@@ -1,16 +1,17 @@
 - 👋 Hi, I’m Morgan Eghosa Okuonghae
 - 👀 I’m interested in data science,cloud,software development and Telecoms
+- i know how to write SQL, python and java programming
 - 🌱 I’m currently learning cloud Technology 
 - 💞️ I’m looking to collaborate on data science and development project
 - 📫 How to reach me
- Website:   https://eghosamorganitsolution.com.ng/
-     Phone : +2347025001397
+  
+     Phone : +2348034106912
 Emails:                                                
 
 Morgan.okuonghae@gmail.com
 eghosamorgan@yahoo.com
 
-info@eghosamorganitsolution.com.ng
+
 
 <!---
 eghosamorganitsolution/eghosamorganitsolution is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
