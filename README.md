@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on data science and development project
 - 📫 How to reach me
   
-     Phone : +2348034106912
+     Phone/whatsapp : +2348034106912
 Emails:                                                
 
 Morgan.okuonghae@gmail.com
